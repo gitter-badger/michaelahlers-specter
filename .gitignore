@@ -1,0 +1,5 @@
+*.sc
+/.idea
+/local-build.sbt
+/logs
+/target
